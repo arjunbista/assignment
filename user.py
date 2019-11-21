@@ -1,6 +1,7 @@
 name="Arjun"
 age=20
 place="Itahari"
+job="government"
 '''def sum1():
     a=int(input("Enter the a value: "))
     b=int(input("Enter the b value: "))
